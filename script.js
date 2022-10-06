@@ -194,8 +194,6 @@ function pintarUsuario() {
 	nombreUsuario.innerHTML = ` Bienvenido ${user}`;
 	nombreUsuario.classList.add("usuario-registrado");
 
-	console.log("napintarUsuarioda ");
-
 	Swal.fire({
 		icon: "success",
 		color: "#ffffff",
