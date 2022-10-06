@@ -7,7 +7,7 @@
 
 html {
 	font-size: 62, 5%;
-	margin: 20px 20px 20px 20px;
+	margin-top: 65px;
 }
 
 container-fluid {
@@ -23,8 +23,9 @@ container-fluid {
 }
 
 #contenedor-login {
+	padding-left: 11%;
 	margin-top: 50px;
-	width: 30%;
+	width: 40%;
 }
 
 #contenedor-productos {
@@ -120,5 +121,5 @@ img#mouse {
 }
 
 .usuario-registrado {
-	color: tomato;
+	color: brown;
 }
